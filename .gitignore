@@ -3,4 +3,11 @@
 *.key
 *_key*
 *secret*
-config.local.json
+config.local.jsonvenv/
+__pycache__/
+*.pyc
+*.pyo
+.ai_assistant_config.json
+*.key
+*.log
+/tmp/
