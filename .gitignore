@@ -1,0 +1,6 @@
+
+.ai_assistant_config.json
+*.key
+*_key*
+*secret*
+config.local.json
