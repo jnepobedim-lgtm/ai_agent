@@ -11,3 +11,6 @@ __pycache__/
 *.key
 *.log
 /tmp/
+__pycache__/
+ailog/
+*.pyc
